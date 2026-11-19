@@ -8,7 +8,7 @@ Which protocol's token would be worth most if it launched? This radar ranks the
 protocols that **record no token** in the sealed DefiLlama snapshot by an implied value
 built only from the snapshot's own figures, and gives each one a concrete farm plan.
 
-Built for the [make.fun](https://make.fun) `token-radar-01` bounty — $1,325 in prizes,
+Built for the [token-radar-01 bounty](https://make.fun/bounty/token-radar-01) on [make.fun](https://make.fun) — $1,325 in prizes,
 1st place $1,000.
 
 ## The board
